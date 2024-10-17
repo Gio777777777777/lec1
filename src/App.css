@@ -1,0 +1,40 @@
+.box {
+  width: 400px;
+  height: auto;
+  padding: 25px;
+  border: 10px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background-color: #000000;
+  text-align: center;
+  margin: 50px auto;
+
+}
+
+.name {
+  color: rgb(21, 21, 191);
+  font-size: 60px;
+}
+
+.surname {
+  color: rgb(113, 11, 153);
+  font-size: 50px;
+}
+
+.age {
+  color: rgb(147, 10, 118);
+  font-size: 44px;
+}
+
+.hobby {
+  color: rgb(10, 132, 63);
+  font-size: 40px;
+}
+
+.car{
+  color: rgb(121, 171, 15);
+  font-size: 33px;
+}
+
+.div{
+  border: 10px solid rgb(12, 0, 79);
+}
